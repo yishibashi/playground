@@ -1,0 +1,5 @@
+
+
+```
+$ ausyscall --dump
+```
